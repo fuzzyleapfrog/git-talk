@@ -1,5 +1,5 @@
-# git talk
+# Git-Talk
 
-Short talk about git and github at jugendhackt sued 2015.
+Ein kurzer Vortrag zu Git und Github bei Jugend hackt - Mädchen vernetzen 2020.
 
-A live demo can be found [here](https://fuzzyleapfrog.github.io/git-talk/)
+Eine Live-Demo gibt es [hier](https://fuzzyleapfrog.github.io/git-talk/)
